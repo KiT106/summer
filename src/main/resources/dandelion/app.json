@@ -1,0 +1,14 @@
+{
+  "bundle": "app",
+  "dependencies": [
+    "jquery",
+    "bootstrap2"
+  ],
+  "assets": [
+    {
+      "locations": {
+        "webapp": "/assets/js/app.js"
+      }
+    }
+  ]
+}

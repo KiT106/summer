@@ -1,0 +1,12 @@
+{
+  "bundle": "jquery",
+  "assets": [
+    {
+      "version": "3.1.0",
+      "type": "js",
+      "locations": {
+        "webapp": "/assets/js/vendor/jquery.js"
+      }
+    }
+  ]
+}
