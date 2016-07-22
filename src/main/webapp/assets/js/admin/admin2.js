@@ -1,0 +1,1 @@
+console.log("Goodby from admin2");
